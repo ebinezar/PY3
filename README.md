@@ -1,2 +1,2 @@
 # PY3
-# MutliProcess and MultiThread
+# Multi-Process and Multi-Thread python script
